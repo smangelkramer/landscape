@@ -12320,11 +12320,10 @@ landscape:
             logo: fujitsu-k5.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
           - item:
-            name: FullStackS (KCSP)
+            name: FULLSTACKS (KCSP)
             description: >-
-              We live Cloud, Automation, Container & Kubernetes, CI/CD & Application Performance Monitoring! We have an holistic approach to provide our
-              customers a Application-Delivery-Platform.
-            homepage_url: https://www.fullstacks.eu/about-3
+              FULLSTACKS – Your partner for cloud native, DevOps, and IT security: fast, secure, forward-looking.
+            homepage_url: https://fullstacks.io/frameworks/platform/
             logo: fullstacks.svg
             crunchbase: https://www.crunchbase.com/organization/fullstacks
           - item:
